@@ -1,11 +1,11 @@
 # Site settings
 author: Chibuisi Enyia
-title: 
+title: More ambition than skill
 header-img: img/home-bg.png
 email: enyia21@gmail.com
 copyright_name: Chibuisi Enyia
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning to Code in a Pandemic
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  enyia21
