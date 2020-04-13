@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "First Day In Coding BootCamp"
-date:       2020-04-13 11:22:28 +0000
+date:       2020-04-13 07:22:29 -0400
 permalink:  first_day_in_coding_bootcamp
 ---
 
