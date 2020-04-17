@@ -1,9 +1,12 @@
 ---
 layout: post
-title:      "First Day In Coding BootCamp"
+title:      "Why did you decide to study Software Engineering?"
 date:       2020-04-13 07:22:29 -0400
 permalink:  first_day_in_coding_bootcamp
 ---
 
-
-My first day in coding boot camp is a source of nervousness and excitement for me.   Like many students who are pulled in multiple directions by family obligations, work, etc. it's hard to pull together ideas that you aren't applying everyday.  Coding in javascript for hundreds of hours seems like a great way to get prepared for life as a front end developer.   I wonder if utilizing ruby on rails will be the backend program I use for the rest of my life or will I hope from one to the other after I complete this program.  I wonder how this program will prepare me for grad school?  
+Software engineering was a profession that i decided to study because of the software engineering can create for me.  The displine of Software Engineering will allow me to:
+1.  Work in an expanding industry that allows individuals to create products and problem solve with competitive compensation.
+2.  The skill of software engineering is transferrable, which will allow me to create oppotunities for people in similar situations to me.  
+3.  It will allow me to build the businesses that I've wanted to create.  I believe in using tech to help people be their most successfull and I want to create tools that allow that to happen.  There are several markets that I would target and software engineering is vital to building proper solutions.  
+4.  Plus software engineers are essential while bartenders are not.
