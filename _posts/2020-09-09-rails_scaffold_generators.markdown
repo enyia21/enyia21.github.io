@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Scaffold Generators"
-date:       2020-09-10 00:03:42 +0000
+date:       2020-09-09 20:03:43 -0400
 permalink:  rails_scaffold_generators
 ---
 
