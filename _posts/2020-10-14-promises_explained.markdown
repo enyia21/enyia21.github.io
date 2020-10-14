@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Promises Explained"
-date:       2020-10-14 19:01:50 +0000
+date:       2020-10-14 15:01:51 -0400
 permalink:  promises_explained
 ---
 
